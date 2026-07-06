@@ -1,0 +1,4 @@
+<div class="full-size column-center">
+    <image src="{{ batteryIcon }}" class="battery-icon-small"></image>
+    <text class="battery-text">{{ batteryLevel }}</text>
+</div>
